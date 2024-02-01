@@ -91,5 +91,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 For any queries or support, please contact us at [SrichandanKota@my.unt.edu](mailto:SrichandanKota@my.unt.edu).
 ```
-
-Save this content into a `README.md` file at the root of your project directory on GitHub. Adjust the placeholder URLs and contact information to match that of your actual project and team members.
