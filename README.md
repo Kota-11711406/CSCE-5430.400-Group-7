@@ -10,6 +10,7 @@ This project is a comprehensive team chat application modeled after Discord's ca
 - [Usage](#usage)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Repository Structure](#repo-struct)
 - [Contributing](#contributing)
 - [License](#license)
 - [Authors](#authors)
@@ -62,6 +63,37 @@ http://localhost:3000
 - **MySQL (Planetscale)**: As the relational database for data storage.
 - **Clerk**: For user authentication and security.
 - **Chakra UI**: For building a consistent and accessible user interface.
+
+## Repository Structure
+
+```plaintext
+/team-chat-application
+|-- /src                            # Application source code
+|   |-- /client                     # Frontend application code
+|   |   |-- /components             # React components
+|   |   |-- /pages                  # Application pages
+|   |   `-- /styles                 # Styling for the application
+|   `-- /server                     # Backend application code
+|       |-- /config                 # Server configuration files
+|       |-- /controllers            # Request controllers
+|       `-- /models                 # Database models
+|-- /docs                           # Documentation
+|   |-- /planning                   # Planning documents
+|   |   |-- project_proposal.md     # Initial project proposal
+|   |   `-- scope_document.md       # Project scope document
+|   |-- /meeting-minutes            # Meeting minutes
+|   |   `-- 2024-01-31_minutes.md   # Example meeting minutes
+|   `-- /reports                    # Project reports
+|       `-- 2024-02-28_report.md    # Example report
+|-- /tests                          # Automated tests
+|   |-- /unit                       # Unit tests
+|   `-- /integration                # Integration tests
+|-- /scripts                        # Utility scripts
+|   `-- deploy.sh                   # Deployment script
+|-- .gitignore                      # Specifies intentionally untracked files to ignore
+|-- README.md                       # The file that you are currently reading
+`-- LICENSE                         # The full text of the project's license
+```
 
 ## Contributing
 
