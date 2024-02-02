@@ -6,8 +6,6 @@ This project is a comprehensive team chat application modeled after Discord's ca
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Repository Structure](#repo-struct)
@@ -15,35 +13,6 @@ This project is a comprehensive team chat application modeled after Discord's ca
 - [License](#license)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgments)
-
-## Installation
-
-To set up the project for development and testing on your local machine, follow these steps:
-
-```bash
-# Clone the repository
-git clone https://github.com/yourgithub/team-chat-application.git
-
-# Navigate to the project directory
-cd team-chat-application
-
-# Install dependencies for the server
-cd server && npm install
-
-# Install dependencies for the client
-cd ../client && npm install
-
-# Start the development server
-npm run dev
-```
-
-## Usage
-
-After setting up the project, you can access the application in your web browser at:
-
-```
-http://localhost:3000
-```
 
 ## Features
 
@@ -67,32 +36,34 @@ http://localhost:3000
 ## Repository Structure
 
 ```plaintext
-/team-chat-application
-|-- /src                            # Application source code
-|   |-- /client                     # Frontend application code
-|   |   |-- /components             # React components
-|   |   |-- /pages                  # Application pages
-|   |   `-- /styles                 # Styling for the application
-|   `-- /server                     # Backend application code
-|       |-- /config                 # Server configuration files
-|       |-- /controllers            # Request controllers
-|       `-- /models                 # Database models
-|-- /docs                           # Documentation
-|   |-- /planning                   # Planning documents
-|   |   |-- project_proposal.md     # Initial project proposal
-|   |   `-- scope_document.md       # Project scope document
-|   |-- /meeting-minutes            # Meeting minutes
-|   |   `-- 2024-01-31_minutes.md   # Example meeting minutes
-|   `-- /reports                    # Project reports
-|       `-- 2024-02-28_report.md    # Example report
-|-- /tests                          # Automated tests
-|   |-- /unit                       # Unit tests
-|   `-- /integration                # Integration tests
-|-- /scripts                        # Utility scripts
-|   `-- deploy.sh                   # Deployment script
-|-- .gitignore                      # Specifies intentionally untracked files to ignore
-|-- README.md                       # The file that you are currently reading
-`-- LICENSE                         # The full text of the project's license
+Directory information : 
+
+CSCE-5430.400-Group-7/
+├── source-code(team-chat-app)/             # Contains all application source code
+│   ├── components/          # Reusable UI components
+│   │   ├── Chat/            # Components related to chat functionality
+│   │   ├── UI/              # Generic UI components like buttons, modals, etc.
+│   │   └── Layout/          # Components for layout and structure
+│   ├── pages/               # Next.js pages directory
+│   │   ├── api/             # API routes
+│   │   └── [page].js        # Application pages
+│   ├── public/              # Static files like images and icons
+│   ├── styles/              # Tailwind CSS files and custom styles
+│   ├── prisma/              # Prisma schema and migrations
+│   ├── utilities/           # Utility functions and hooks
+│   ├── lib/                 # Library for shared functions and middleware
+│   ├── hooks/               # React custom hooks
+│   ├── context/             # React context for state management
+│   ├── models/              # Data models for Prisma
+│   ├── server/              # Server-side logic and Socket.io setup
+│   ├── scripts/             # Scripts for development and deployment
+│   └── __tests__/           # Unit and integration tests
+├── Group-Info               # Information about the project team
+├── meeting minutes/         # Records of team meetings
+├── planning documents/      # Initial and ongoing planning documents
+└── project reports/         # Deliverable Reports
+└──note-deliverable1.txt/         # Directory information
+
 ```
 
 ## Contributing
