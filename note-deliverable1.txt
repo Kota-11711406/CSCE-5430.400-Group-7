@@ -1,8 +1,10 @@
 ﻿# note-deliverable1
 
+Location: All these files are present in root directory of this github project.
+
+
 
 Directory information : 
-
 
 CSCE-5430.400-Group-7/
 ├── source-code(team-chat-app)/             # Contains all application source code
