@@ -2,7 +2,9 @@
 
 Location: All these files are present in root directory of this github project.
 
-
+Deliverable - 1 
+path: project reports/Group-7-del-1.pdf, 
+name : Group-7-del-1.pdf
 
 Directory information : 
 
@@ -29,5 +31,6 @@ CSCE-5430.400-Group-7/
 ├── Group-Info               # Information about the project team
 ├── meeting minutes/         # Records of team meetings
 ├── planning documents/      # Initial and ongoing planning documents
-└── project reports/         # Deliverable Reports
+└── project reports/         # Deliverable Reports 
+│   ├── Group-7-del-1.pdf/   # Deliverable 1 document (name : Group-7-del-1.pdf)
 └──note-deliverable1.txt/         # Directory information
