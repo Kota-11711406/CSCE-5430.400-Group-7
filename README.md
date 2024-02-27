@@ -62,7 +62,10 @@ CSCE-5430.400-Group-7/
 ├── meeting minutes/         # Records of team meetings
 ├── planning documents/      # Initial and ongoing planning documents
 └── project reports/         # Deliverable Reports
-└──note-deliverable1.txt/         # Directory information
+│   ├── Group-7-del-1.pdf/   # Deliverable 1 document (name : Group-7-del-1.pdf)
+│   ├── Deliverable-2.pdf/   # Deliverable 2 document (name : Deliberable-2.pdf)
+└──note-deliverable1.txt/    # Directory information for deliverable 1
+└──note-deliverable2.txt/    # Directory information for deliverable 2
 
 ```
 
