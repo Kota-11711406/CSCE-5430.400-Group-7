@@ -4,11 +4,11 @@ Location: All these files are present in root directory of this github project.
 
 
 Deliverable - 1 
-path: project reports/Group-7-del-1.pdf, 
+location path: project reports/Group-7-del-1.pdf, 
 name : Group-7-del-1.pdf
 
 Deliberable-2
-path: project reports/Deliberable-2.pdf, 
+location path: project reports/Deliberable-2.pdf, 
 name : Deliberable-2.pdf
 
 
