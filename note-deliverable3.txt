@@ -53,7 +53,7 @@ CSCE-5430.400-Group-7/
 │   └── Group-7-del-1.pdf
 │   └── Deliverable-3.pdf/            
 │
-├── team-chat-app(source-code)\                                  # Main directory for the team chat application
+├── team-chat-app-sourceCode-Phase1(source-code)\                                  # Main directory for the team chat application
 │   │
 │   ├── app\                                        # Contains the core application files
 │   │   │
