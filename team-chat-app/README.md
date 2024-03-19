@@ -2,21 +2,17 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+First, run the development server:
 
-Compile and Run application
-Installing required libraries and Running the application
-1.Navigate to the root directory of the app.
-2.Install all the packages listed on package.json using npm: npm i
-3.Build the next js app: npm run build
-4.Start the app locally: npm run dev
-5.Visit port http://localhost:3000/ on successfully building and running the application.
-Troubleshooting while compile and run
-Typical Problems and Solutions
-Problem: Problem with any of the dependency or next js app
-Solution:Try to delete node_modules directory and install the dependencies again using “npm i” without changing anything in package.json.
-Problem: error during any functionality breaking in the app.
-Solution: Re-build the app using “npm run build” and run it again using “npm run dev”.
-
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
@@ -29,6 +25,14 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # team-chat
 # team-chat
