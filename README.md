@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a comprehensive team chat application modeled after Discord's capabilities but tailored for organizational use. It's designed with modern technologies to provide real-time messaging, multimedia sharing, various communication channels, and advanced user management. The goal is to create a scalable and user-friendly platform for effective team collaboration.
+This project is a comprehensive team chat application. It's designed with modern technologies to provide real-time messaging, multimedia sharing, various communication channels, and advanced user management. The goal is to create a scalable and user-friendly platform for effective team collaboration.
 
 ## Table of Contents
 
