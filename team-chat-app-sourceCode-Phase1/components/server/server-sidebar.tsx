@@ -89,6 +89,7 @@ export const ServerSidebar = async ({
                   icon: iconMap[channel.type],
                 }))
               },
+
               {
                 label: "Members",
                 type: "member",
