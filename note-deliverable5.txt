@@ -1,15 +1,15 @@
-# note-deliverable3
+# note-deliverable5
 
 Location: All these files are present in root directory of this github project.
 
 
-Deliberable-4
-location path: project reports/Deliberable-4.pdf, 
-name : Deliberable-4.pdf
+Deliberable-5
+location path: project reports/Deliberable-5.pdf, 
+name : Deliberable-5.pdf
 
-Meeting-Minutes-4
-Location path: meeting minutes/Meeting Minutes - Deliverable 4.pdf
-Name : Meeting Minutes - Deliverable 4.pdf
+Meeting-Minutes-5
+Location path: meeting minutes/Meeting Minutes - Deliverable 5.pdf
+Name : Meeting Minutes - Deliverable 5.pdf
 
 Planing document:
 Location path:planning documents/Planning document.pdf
@@ -20,18 +20,18 @@ Directory information :
 
 CSCE-5430.400-Group-7/
 ├── meeting minutes\                                # Directory for meeting minutes
-│   └── Meeting Minutes - Deliverable 4.pdf
+│   └── Meeting Minutes - Deliverable 5.pdf
 │
 ├── planning documents\                              # Directory for planning documents
 │   └── Planning document.pdf
 │
 ├── project reports\                                  # Directory for Deliverable reports
 │   ├── .DS_Store=
-│   └── Deliverable-4.pdf  
+│   └── Deliverable-5.pdf  
 │        
 ├── inspection-code-Group-7.pdf                       # Code inspection document for Phase 1
 │
-├── team-chat-app-sourceCode-Phase2\                # Main directory for the team chat application
+├── source-code\                                    # Main directory for the team chat application
 │   │
 │   ├── app\                                        # Contains the core application files
 │   │   │
@@ -261,4 +261,4 @@ CSCE-5430.400-Group-7/
 ├── .DS_Store
 ├── Group-Info
 ├── README.md
-└── note-deliverable4.txt
+└── note-deliverable5.txt
